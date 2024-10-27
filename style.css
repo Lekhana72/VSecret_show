@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    text-decoration: none;
+    color: #221f20;
+    /* font-family: Chap, Arial, sans-serif; */
+   
+
+}
+
+body{
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    width:1100px;
+   }
+
+.logo{
+    color:black;
+    font-family:  Canela, Georgia, serif;
+    text-transform: uppercase;
+    display:flex;
+    /* margin:10px; */
+    padding: 2px 5px;
+    width:22px;
+    height:7px;
+    margin-top: 20px;
+   
+
+}
+
+.log1{
+    color: black;
+    font-size: 10px;
+    font-family:  Chap, Arial, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-top: 22px;
+    margin-right: 4px;
+    letter-spacing: 1px;
+    font-weight: 10%;
+    letter-spacing: 4px;
+}
+.log2{
+    font-family: 400 50px / 32px Canela, Georgia, serif;
+    font-size: 32px;
+    margin-top: 10px;
+
+}
+
+.category{
+    justify-content: flex-end;
+    width:500px;
+    margin-top: 30px;
+    margin-left: 32rem;
+    }
+
+.pages{
+    
+    padding: 2px 20px;
+    display: flex;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    /* font-size: 18px; */
+    font-style: normal;
+    letter-spacing: 5px; 
+    /* background-color: blue;    */
+    border-right: 1px solid gray;   
+}
+
+pages:hover{
+    text-decoration: underline;
+}
+
+.cat1{
+    justify-content: flex-end;
+    align-items: center;
+}
+.pages.cat4{
+    border-right: none;
+}
+.style{
+    display: block;
+}
+
+.style{
+    font-family: Chap, Arial, sans-serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+    /* margin-left: 10px; */
+}
+
+.head{
+    font-family: 400 50px Canela, Georgia, serif;
+    font-size: 40px;
+}
+
+.sub{
+    letter-spacing: 1px;
+    font-size: 9px;
+}
+
+
+.article{
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+    font: 300 18px / 22px Canela, Georgia, serif;
+    /* letter-spacing: -.01em; */
+}
+/* .article.par{
+font: 300 28px / 32px Canela, Georgia, serif;
+    letter-spacing: -.01em;
+    
+} */
